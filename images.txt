@@ -1,14 +1,2 @@
-redis:7.0
-redis:6.2
-mysql:8.0
-mysql:5.7
-postgres:15
-postgres:14
-elasticsearch:8.11.4
-kibana:8.11.4
-bitnami/kafka:3.6
-confluentinc/cp-kafka:7.4.1
-apache/rocketmq:5.1.4
-rocketmqinc/rocketmq:4.9.7
 nacos/nacos-server:v2.3.0
 wurstmeister/kafka:latest
