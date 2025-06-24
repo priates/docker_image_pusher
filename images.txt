@@ -1,1 +1,1 @@
-zhusaidong/nacos-server-m1:2.0.3
+zhusaidong/nacos-server-m1:2.2.3
